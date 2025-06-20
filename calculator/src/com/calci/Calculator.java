@@ -10,6 +10,11 @@ public class Calculator {
 	{
 		System.out.println("This is Sub Method");
 	}
+	public void mul()
+	{
+		System.out.println("This is Mulipication");
+		
+	}
 	
 
 }
