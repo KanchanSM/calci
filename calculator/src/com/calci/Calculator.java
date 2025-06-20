@@ -6,7 +6,10 @@ public class Calculator {
 	{
 		System.out.println("This is Addition method");
 	}
-	
+	public void substraction()
+	{
+		System.out.println("This is Sub Method");
+	}
 	
 
 }
