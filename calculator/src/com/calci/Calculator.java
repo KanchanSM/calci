@@ -13,7 +13,7 @@ public class Calculator {
 	public void mul()
 	{
 		System.out.println("This is Mulipication");
-		
+		System.out.println("New update");
 	}
 	
 
