@@ -15,6 +15,9 @@ public class Calculator {
 		System.out.println("This is Mulipication");
 		
 	}
-	
+	public void division()
+	{
+		System.out.println("This is Division")
+	}
 
 }
