@@ -15,9 +15,10 @@ public class Calculator {
 		System.out.println("This is Mulipication");
 		
 	}
-	public void division()
+	public void Division()
 	{
-		System.out.println("this is divison")
+		System.out.println("This is Division method")
 	}
+	
 
 }
