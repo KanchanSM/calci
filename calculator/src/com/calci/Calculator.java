@@ -17,7 +17,7 @@ public class Calculator {
 	}
 	public void division()
 	{
-		System.out.println("This is Division")
+		System.out.println("this is divison")
 	}
 
 }
